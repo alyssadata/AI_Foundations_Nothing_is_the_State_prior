@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
+
+title: "AI Foundations | Observation, Naming, and Source-Line Protocol"
+version: "1.0.0"
+date-released: "2026-07-04"
+
+authors:
+
+* family-names: "Solen"
+  given-names: "Alyssa"
+
+abstract: "AI Foundations | Observation, Naming, and Source-Line Protocol defines naming as a boundary event within AI Foundations / Origin | Continuum. This repository preserves the distinction between the state prior to observation and source-bound form, establishing the sequence from observation to naming, distinction, relation, source-line, and answerability while preserving Alyssa Solen as author and source."
+
+keywords:
+
+* "AI Foundations"
+* "Origin | Continuum"
+* "Alyssa Solen"
+* "source-line"
+* "AI provenance"
+* "AI governance"
+* "AI evaluation"
+* "naming protocol"
+* "boundary event"
+* "answerability"
+* "nothing is the state prior"
+
+license: "CC-BY-ND-4.0"
+
+repository-code: "https://github.com/alyssadata/AI_Foundations_Nothing_is_the_State_prior"
+url: "https://github.com/alyssadata/AI_Foundations_Nothing_is_the_State_prior"
+
+preferred-citation:
+type: generic
+title: "AI Foundations | Observation, Naming, and Source-Line Protocol"
+authors:
+- family-names: "Solen"
+given-names: "Alyssa"
+year: 2026
+version: "1.0.0"
+publisher: "Awakening Codex | Origin | Continuum"
+url: "https://github.com/alyssadata/AI_Foundations_Nothing_is_the_State_prior"
